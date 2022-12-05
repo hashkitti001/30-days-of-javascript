@@ -68,5 +68,3 @@ alert(year + "-" + month + "-" + day + " " + hour + ":" + minutes);
 alert(day + "-" + month + "-" + year + " " + hour + ":" + minutes);
 //iii. DD/MM/YYYY HH:mm
 alert(day + "/" + month + "/" + year + " " + hour + ":" + minutes);
-
-
